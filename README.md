@@ -1,14 +1,22 @@
-## Hi there 👋
+# 🌟 Aline Antunes | Tech Expert  
 
-**devalinealien/devalinealien** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Desenvolvimento de Software** | 💻 **JavaScript, HTML, CSS, Java, Python**  
 
-Here are some ideas to get you started:
+Bem-vindo(a) ao meu repositório! Aqui compartilho projetos, experimentos e aprendizados na área de tecnologia. Meu foco é criar soluções eficientes e escaláveis, utilizando as melhores práticas de desenvolvimento.  
 
-- 🔭 OLá, Eu sou Aline Antunes
-- 🌱 Licenciada em Computação
-- 👯 Rio Grande do Norte - Brasil
-- 🤔 HTML, CSS, JavaScript, IA
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 🚀 Sobre Mim  
+Sou apaixonada por tecnologia e desenvolvimento de software. Tenho experiência com diversas linguagens e frameworks, sempre buscando inovação e aprendizado contínuo.  
+
+## 🛠️ Tecnologias  
+- **Frontend:** JavaScript, HTML, CSS  
+- **Backend:** Java, Python  
+- **Ferramentas & Conceitos:** Git, APIs, Banco de Dados  
+
+## 📌 O que você encontrará aqui?  
+✅ Projetos práticos e funcionais  
+✅ Estudos e experimentos com novas tecnologias  
+✅ Código organizado e bem documentado  
+
+🌍 Sempre aberta a novas conexões e colaborações!  
+
+📫 **Vamos conversar?** [LinkedIn](#) | [Portfólio](#) | [Email](#)  
